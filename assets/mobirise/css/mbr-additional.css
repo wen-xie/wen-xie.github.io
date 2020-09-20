@@ -27,11 +27,11 @@ body {
 }
 .display-4 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.6rem;
 }
 .display-5 {
   font-family: 'Montserrat', sans-serif;
@@ -43,11 +43,11 @@ body {
 }
 .display-7 {
   font-family: 'Lato', sans-serif;
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.12rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.64rem;
-    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.96rem;
@@ -549,11 +549,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Lato', sans-serif;
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.12rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1552,76 +1552,40 @@ section.lazy-placeholder:after {
 .cid-s3HkEstizi blockquote {
   color: #767676;
 }
-.cid-s3Hl2T9kWw {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-sb97JZMctU {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s3Hl2T9kWw .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3Hl2T9kWw .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-s3Hl2T9kWw .mbr-text {
+.cid-sb97JZMctU .mbr-text,
+.cid-sb97JZMctU blockquote {
   color: #767676;
 }
-.cid-s3Hlrp2LH3 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-sb97TfyWsr {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s3Hlrp2LH3 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3Hlrp2LH3 .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-s3Hlrp2LH3 .mbr-text {
+.cid-sb97TfyWsr .mbr-text,
+.cid-sb97TfyWsr blockquote {
   color: #767676;
 }
-.cid-s3HlHRvDPZ {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-sb97Uy3VIx {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s3HlHRvDPZ .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3HlHRvDPZ .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-s3HlHRvDPZ .mbr-text {
+.cid-sb97Uy3VIx .mbr-text,
+.cid-sb97Uy3VIx blockquote {
   color: #767676;
 }
-.cid-s3HmgjFWo5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-sb97UOEmZU {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s3HmgjFWo5 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3HmgjFWo5 .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-s3HmgjFWo5 .mbr-text {
+.cid-sb97UOEmZU .mbr-text,
+.cid-sb97UOEmZU blockquote {
   color: #767676;
 }
 .cid-s3HmYSUuTf .navbar {
